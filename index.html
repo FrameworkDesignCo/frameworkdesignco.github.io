@@ -22,15 +22,29 @@
     
     <link rel="stylesheet" type="text/css" href="newc.css">
     
+    <script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+    <script>
+    
+    var myBoxes = $('.news-item');     $(window).scroll(function(){
+ var scrollTop = $(window).        scrollTop();
+ myBoxes.each(function(){
+ var $this = $(this);
+ var scrollspeed = parseInt($this.    data('scroll-speed')),
+ offset = - scrollTop / scrollspeed;
+ $this.css('transform',   'translateY(' + offset + 'px)');
+ });
+ });
+    
+    </script>
     </head>
 <body>
     <header>
-        <div class="frmbx">  </div><div class="frmbx2">  </div> <div class="frmbx3">  </div>
+        <div class="frmbx" data-scroll-speed="2">  </div><div class="frmbx2" data-scroll-speed="6">  </div> <div class="frmbx3" data-scroll-speed="9">  </div>
     <div id="parent"> <center>
         <img src="/images/frame-13.png" width="350px">
         </center>
         </div>
-        <div class="frmbx4">  </div><div class="frmbx5">  </div> <div class="frmbx6">  </div>
+        <div class="frmbx4" data-scroll-speed="1">  </div><div class="frmbx5" data-scroll-speed="3">  </div> <div class="frmbx6" data-scroll-speed="7">  </div>
 </header>
 <nav class="navbar navcolor1 " data-toggle="affix">
     <div class="row"><div class="logohold">
