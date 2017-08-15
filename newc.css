@@ -1,0 +1,138 @@
+header {
+    height: 400px;
+}
+body {
+    background: #efefef;
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+}
+
+#main {
+    padding-top:70px;
+    background: #efefef;
+    background-color: #efefef;
+    width: 100%;
+}
+
+.navbar {
+  border-radius: 0;
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
+}
+
+.affix {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+
+/* fixed to top styles */
+.affix.navbar {
+  background-color: #ffffff;
+  
+}
+.affix.navbar .nav-item>a, 
+.affix.navbar .navbar-brand {
+    color: #414042;
+}
+.affix.navbar img{
+    filter: invert(100%);
+}
+
+
+
+/* navbar collapsing */
+
+
+/* my stuff*/
+#parent {
+    line-height: 800px;
+    background-color: #414042;
+}
+#parent img {
+    vertical-align: middle;
+}
+.logohold{
+    width: 115px;
+}
+.navbar-brandX {
+    width: 100px;
+  float: left;
+  padding: 15px 15px;
+}
+.navcolor1{
+    background-color: #D1D3D4;
+}
+.navcolor1 img{
+  filter: opacity(60%);
+}
+.mdmd{
+    float: right;
+    position: absolute;
+    right: 0;
+    padding-right: 10px;
+    height: 80px;
+    padding-top: 22px;
+}
+.regmen{
+    height: 80px;
+  line-height: 80px;
+  text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 125%;
+    word-spacing: 40px;
+}
+.nav-link{
+    color: #414042;
+}
+
+header {
+    position: relative;
+    height: 800px;
+  min-height: 100%;
+}
+
+.piece{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.piece img{
+    width: 100%
+}
+.fourp{
+    display: block;
+    width: 40%;
+    margin-right: 60%;
+}
+.frmbx{
+    position: absolute;
+    top: 5%;
+    margin-left: 5%;
+    width: 100px;
+    height: 100px;
+    border-left: 3px solid #ffffff; 
+    border-top: 3px solid #ffffff;
+}
+.frmbx2{
+    position: fixed;
+    top: 18%;
+    margin-left: 21%;
+    width: 60px;
+    height: 60px;
+    border-left: 14px solid #ffffff; 
+    border-top: 14px solid #ffffff;
+}
+.frmbx3{
+    position: absolute;
+    top: 24%;
+    margin-left: 15%;
+    width: 220px;
+    height: 220px;
+    border-left: 5px solid #ffffff; 
+    border-top: 5px solid #ffffff;
+}
+
