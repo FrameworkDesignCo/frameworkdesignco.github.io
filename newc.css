@@ -137,7 +137,7 @@ header {
 }
 .frmbx4{
     position: absolute;
-    bottom: 5%;
+    bottom: 9%;
     margin-left: 70%;
     width: 180px;
     height: 180px;
@@ -145,20 +145,18 @@ header {
     border-bottom: 3px solid #ffffff;
 }
 .frmbx5{
-    float: right;
     position: fixed;
-    top: 30%;
-    right: 9%;
+    bottom: 20%;
+    margin-left: 61%;
     width: 80px;
     height: 80px;
     border-right: 11px solid #ffffff; 
     border-bottom: 11px solid #ffffff;
 }
 .frmbx6{
-    float: right;
     position: absolute;
     bottom: 24%;
-    margin-right: 15%;
+    margin-left: 55%;
     width: 120px;
     height: 120px;
     border-right: 7px solid #ffffff; 
