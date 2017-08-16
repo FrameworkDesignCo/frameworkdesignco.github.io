@@ -193,27 +193,6 @@ header {
 }
 
 .wrapper .box{
-  width: 100px;
-  height: 100px;
-  line-height: 100px;
-  text-align: center;
-  font-size: 160%;
-  color: #fff;
-  position: absolute;
-  background: #ff8330;
-}
-.wrapper .box{
-  width: 100px;
-  height: 100px;
-  line-height: 100px;
-  text-align: center;
-  font-size: 160%;
-  color: #fff;
-  position: absolute;
-  background: #ff8330;
-}
-
-.wrapper .box{
   line-height: 100px;
   text-align: center;
   font-size: 160%;
