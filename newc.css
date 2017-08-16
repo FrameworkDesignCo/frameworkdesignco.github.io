@@ -201,27 +201,3 @@ header {
   background: #ff8330;
 }
 
-.wrapper .box:nth-of-type(2) {
-  left: 100px;
-  background: #E01B5D;
-}
-
-.wrapper .box:nth-of-type(3) {
-  left: 200px;
-  background: #30FFFF;
-}
-
-.wrapper .box:nth-of-type(4) {
-  left: 300px;
-  background: #B3FF30;
-}
-
-.wrapper .box:nth-of-type(5) {
-  left: 400px;
-  background: #308AFF;
-}
-
-.wrapper .box:nth-of-type(6) {
-  left: 500px;
-  background: #1BE059;
-}
