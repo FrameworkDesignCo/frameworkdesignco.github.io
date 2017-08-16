@@ -217,9 +217,8 @@ header {
   line-height: 100px;
   text-align: center;
   font-size: 160%;
-  color: #fff;
+  color: #ffffff;
   position: absolute;
-  background: #ff8330;
 }
 .bone{
     left: 10%;
@@ -245,5 +244,15 @@ header {
     height: 100px;
     border-left: 8px solid #ffffff; 
     border-top: 8px solid #ffffff;
+    
+}
+
+.bfour{
+    top: 16%;
+    left: 7%;
+    width: 200px;
+    height: 200px;
+    border-left: 2px solid #ffffff; 
+    border-top: 2px solid #ffffff;
     
 }
