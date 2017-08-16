@@ -223,13 +223,16 @@ header {
   position: absolute;
   background: #ff8330;
 }
-.box .bone{
-    padding-left: 400px;
+.bone{
+    left: 10%;
 }
-.box .btwo{
-    padding-top: 15%;
+.btwo{
+    top: 15%;
+    left: 15%;
 }
 
 .bthree{
-    margin: 5%;
+    margin-top: 5%;
+    margin-left: 5%;
+    
 }
