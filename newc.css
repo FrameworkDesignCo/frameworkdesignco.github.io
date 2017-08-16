@@ -193,14 +193,14 @@ header {
     border-bottom: 12px solid #ffffff;
 }
 .bhuge{
-    top: 5%;
-    left: 5%;
-    width: 90%;
-    height: 90%;
-    border-right: 2px solid #ffffff; 
-    border-bottom: 2px solid #ffffff;
-    border-top: 2px solid #ffffff; 
-    border-left: 2px solid #ffffff;
+    top: 2%;
+    left: 2%;
+    width: 96%;
+    height: 96%;
+    border-right: 1px solid #ffffff; 
+    border-bottom: 1px solid #ffffff;
+    border-top: 1px solid #ffffff; 
+    border-left: 1px solid #ffffff;
 }
 
 
