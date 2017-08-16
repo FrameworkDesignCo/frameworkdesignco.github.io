@@ -145,7 +145,7 @@ header {
     border-bottom: 3px solid #ffffff;
 }
 .frmbx5{
-    position: absolute;
+    position: fixed;
     bottom: 16%;
     margin-left: 91%;
     width: 80px;
