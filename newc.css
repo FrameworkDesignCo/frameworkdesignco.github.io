@@ -49,13 +49,7 @@ body {
 
 
 /* my stuff*/
-#parent {
-    line-height: 800px;
-    background-color: #414042;
-}
-#parent img {
-    vertical-align: middle;
-}
+
 .logohold{
     width: 115px;
 }
@@ -184,7 +178,12 @@ header {
 
 
 .content {
-  height: 1000px;
+  height: 800px;
+    line-height: 800px;
+    background-color: #414042;
+}
+.content img {
+    vertical-align: middle;
 }
 
 .wrapper {
