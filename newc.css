@@ -109,7 +109,7 @@ header {
     margin-right: 60%;
 }
 .frmbx{
-    position: relative;
+    position: absolute;
     top: 5%;
     margin-left: 5%;
     width: 100px;
@@ -118,7 +118,7 @@ header {
     border-top: 3px solid #ffffff;
 }
 .frmbx2{
-    position: relative;
+    position: fixed;
     top: 18%;
     margin-left: 21%;
     width: 60px;
@@ -127,7 +127,7 @@ header {
     border-top: 14px solid #ffffff;
 }
 .frmbx3{
-    position: relative;
+    position: absolute;
     top: 24%;
     margin-left: 15%;
     width: 220px;
@@ -136,7 +136,7 @@ header {
     border-top: 5px solid #ffffff;
 }
 .frmbx4{
-    position: relative;
+    position: absolute;
     bottom: 19%;
     margin-left: 60%;
     width: 180px;
@@ -145,18 +145,18 @@ header {
     border-bottom: 3px solid #ffffff;
 }
 .frmbx5{
-    position: relative;
+    position: absolute;
     bottom: 16%;
-    margin-left: 87%;
+    margin-left: 91%;
     width: 80px;
     height: 80px;
     border-right: 11px solid #ffffff; 
     border-bottom: 11px solid #ffffff;
 }
 .frmbx6{
-    position: relative;
+    position: absolute;
     bottom: 29%;
-    margin-left: 75%;
+    margin-left: 79%;
     width: 120px;
     height: 120px;
     border-right: 7px solid #ffffff; 
