@@ -217,9 +217,9 @@ header {
 }
 .bthree{
     top: 8%;
-    left: 28%;
-    width: 100px;
-    height: 100px;
+    left: 21%;
+    width: 140px;
+    height: 140px;
     border-left: 8px solid #ffffff; 
     border-top: 8px solid #ffffff;  
 }
@@ -242,9 +242,9 @@ header {
 }
 .bsix{
     top: 64%;
-    left: 81%;
-    width: 60px;
-    height: 60px;
+    left: 77%;
+    width: 90px;
+    height: 90px;
     border-right: 4px solid #ffffff; 
     border-bottom: 4px solid #ffffff;
 }
@@ -257,8 +257,8 @@ header {
     border-bottom: 8px solid #ffffff;
 }
 .beight{
-    top: 71%;
-    left: 71%;
+    top: 66%;
+    left: 66%;
     width: 80px;
     height: 80px;
     border-right: 12px solid #ffffff; 
