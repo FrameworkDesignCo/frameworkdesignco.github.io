@@ -102,78 +102,6 @@ header {
     width: 40%;
     margin-right: 60%;
 }
-.frmbx{
-    position: absolute;
-    top: 5%;
-    margin-left: 5%;
-    width: 100px;
-    height: 100px;
-    border-left: 3px solid #ffffff; 
-    border-top: 3px solid #ffffff;
-}
-.frmbx2{
-    position: fixed;
-    top: 18%;
-    margin-left: 21%;
-    width: 60px;
-    height: 60px;
-    border-left: 14px solid #ffffff; 
-    border-top: 14px solid #ffffff;
-}
-.frmbx3{
-    position: absolute;
-    top: 24%;
-    margin-left: 15%;
-    width: 220px;
-    height: 220px;
-    border-left: 5px solid #ffffff; 
-    border-top: 5px solid #ffffff;
-}
-.frmbx4{
-    position: absolute;
-    bottom: 19%;
-    margin-left: 60%;
-    width: 180px;
-    height: 180px;
-    border-right: 3px solid #ffffff; 
-    border-bottom: 3px solid #ffffff;
-}
-.frmbx5{
-    position: fixed;
-    bottom: 11%;
-    margin-left: 91%;
-    width: 80px;
-    height: 80px;
-    border-right: 11px solid #ffffff; 
-    border-bottom: 11px solid #ffffff;
-}
-.frmbx6{
-    position: absolute;
-    bottom: 35%;
-    margin-left: 79%;
-    width: 120px;
-    height: 120px;
-    border-right: 7px solid #ffffff; 
-    border-bottom: 7px solid #ffffff;
-}
-.frmbx7{
-    position: fixed;
-    top: 28%;
-    margin-left: 7%;
-    width: 100px;
-    height: 100px;
-    border-left: 8px solid #ffffff; 
-    border-top: 8px solid #ffffff;
-}
-.frmbx8{
-    position: fixed;
-    bottom: 9%;
-    margin-left: 72%;
-    width: 110px;
-    height: 110px;
-    border-right: 5px solid #ffffff; 
-    border-bottom: 5px solid #ffffff;
-}
 
 
 
@@ -264,7 +192,14 @@ header {
     border-right: 12px solid #ffffff; 
     border-bottom: 12px solid #ffffff;
 }
-
+.bhuge{
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+    border-right: 2px solid #ffffff; 
+    border-bottom: 2px solid #ffffff;
+}
 
 
 
