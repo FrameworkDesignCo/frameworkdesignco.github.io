@@ -226,7 +226,7 @@ header {
 
 .bfour{
     top: 26%;
-    left: 17%;
+    left: 11%;
     width: 200px;
     height: 200px;
     border-left: 2px solid #ffffff; 
@@ -241,8 +241,8 @@ header {
     border-bottom: 2px solid #ffffff;
 }
 .bsix{
-    top: 64%;
-    left: 77%;
+    top: 68%;
+    left: 85%;
     width: 90px;
     height: 90px;
     border-right: 4px solid #ffffff; 
