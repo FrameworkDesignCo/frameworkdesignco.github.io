@@ -165,7 +165,7 @@ header {
 .frmbx7{
     position: fixed;
     top: 28%;
-    margin-left: 17%;
+    margin-left: 7%;
     width: 100px;
     height: 100px;
     border-left: 8px solid #ffffff; 
@@ -173,8 +173,8 @@ header {
 }
 .frmbx8{
     position: fixed;
-    bottom: 19%;
-    margin-left: 94%;
+    bottom: 11%;
+    margin-left: 68%;
     width: 110px;
     height: 110px;
     border-right: 5px solid #ffffff; 
