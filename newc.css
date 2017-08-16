@@ -237,32 +237,32 @@ header {
     right: 7%;
     width: 200px;
     height: 200px;
-    border-left: 2px solid #ffffff; 
-    border-top: 2px solid #ffffff;
+    border-right: 2px solid #ffffff; 
+    border-bottom: 2px solid #ffffff;
 }
 .bsix{
     bottom: 24%;
     right: 19%;
     width: 60px;
     height: 60px;
-    border-left: 4px solid #ffffff; 
-    border-top: 4px solid #ffffff;
+    border-right: 4px solid #ffffff; 
+    border-bottom: 4px solid #ffffff;
 }
 .bseven{
     bottom: 8%;
     right: 14%;
     width: 110px;
     height: 110px;
-    border-left: 8px solid #ffffff; 
-    border-top: 8px solid #ffffff;
+    border-right: 8px solid #ffffff; 
+    border-bottom: 8px solid #ffffff;
 }
 .beight{
     bottom: 11%;
     right: 11%;
     width: 80px;
     height: 80px;
-    border-left: 12px solid #ffffff; 
-    border-top: 12px solid #ffffff;
+    border-right: 12px solid #ffffff; 
+    border-bottom: 12px solid #ffffff;
 }
 
 
